@@ -120,8 +120,7 @@ if __name__ == "__main__":
   ```
 
 ## 5.输出
-![image-20250403010715372](../AppData/Roaming/Typora/typora-user-images/image-20250403010715372.png)
-
+![alt text](image-20250403010715372.png)
 ## 6优缺点
 
 
@@ -168,4 +167,4 @@ if __name__ == "__main__":
 [python设计模式之观察者模式](https://www.cnblogs.com/lifei01/p/13214597.html)
 
 ## 10. 代码地址:
-
+https://github.com/Huah-Yin/Observer-Subject.git
